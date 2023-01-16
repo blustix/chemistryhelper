@@ -1,0 +1,1179 @@
+HYDROGEN
+Name: Hydrogen
+Symbol: H
+Weight: 1.00797
+Family: Non-Metals
+Group: 1
+Electrons: 1
+Protons: 1
+Neutrons: 0
+HELIUM
+Name: Helium
+Symbol: He
+Weight: 4.0026
+Family: Noble Gases
+Group: 2
+Period: 4.216
+Electrons: 2
+Protons: 2
+Neutrons: ~2
+LITHIUM
+Name: Lithium
+Symbol: Li
+Weight: 6.941
+Family: Alkali Metals
+Group: 3
+Period: 1615
+Electrons: 3
+Protons: 3
+Neutrons: ~4
+BERYLLIUM
+Name: Beryllium
+Symbol: Be
+Weight: 9.01218
+Family: Alkaline Earth Metals
+Group: 4
+Period: 3243
+Electrons: 4
+Protons: 4
+Neutrons: ~5
+BORON
+Name: Boron
+Symbol: B
+Weight: 10.811
+Family: Metalloids
+Group: 5
+Period: 4275
+Electrons: 5
+Protons: 5
+Neutrons: ~6
+CARBON
+Name: Carbon
+Symbol: C
+Weight: 12.011
+Family: Non-Metals
+Group: 6
+Period: 5100
+Electrons: 6
+Protons: 6
+Neutrons: ~6
+NITROGEN
+Name: Nitrogen
+Symbol: N
+Weight: 14.0067
+Family: Non-Metals
+Group: 7
+Period: 77.344
+Electrons: 7
+Protons: 7
+Neutrons: ~7
+OXYGEN
+Name: Oxygen
+Symbol: O
+Weight: 15.9994
+Family: Non-Metals
+Group: 8
+Period: 90.188
+Electrons: 8
+Protons: 8
+Neutrons: ~8
+FLUORINE
+Name: Fluorine
+Symbol: F
+Weight: 18.9984
+Family: Halogens
+Group: 9
+Period: 85
+Electrons: 9
+Protons: 9
+Neutrons: ~10
+NEON
+Name: Neon
+Symbol: Ne
+Weight: 20.1797
+Family: Noble Gases
+Group: 10
+Period: 27.1
+Electrons: 10
+Protons: 10
+Neutrons: ~10
+SODIUM
+Name: Sodium
+Symbol: Na
+Weight: 22.9898
+Family: Alkali Metals
+Group: 11
+Period: 1156
+Electrons: 11
+Protons: 11
+Neutrons: ~12
+MAGNESIUM
+Name: Magnesium
+Symbol: Mg
+Weight: 24.305
+Family: Alkaline Earth Metals
+Group: 12
+Period: 1380
+Electrons: 12
+Protons: 12
+Neutrons: ~12
+ALUMINUM
+Name: Aluminum
+Symbol: Al
+Weight: 26.9815
+Family: Post-Transition Metals
+Group: 13
+Period: 2740
+Electrons: 13
+Protons: 13
+Neutrons: ~14
+SILICON
+Name: Silicon
+Symbol: Si
+Weight: 28.0855
+Family: Metalloids
+Group: 14
+Period: 2630
+Electrons: 14
+Protons: 14
+Neutrons: ~14
+PHOSPHORUS
+Name: Phosphorus
+Symbol: P
+Weight: 30.9738
+Family: Non-Metals
+Group: 15
+Period: 553
+Electrons: 15
+Protons: 15
+Neutrons: ~16
+SULFUR
+Name: Sulfur
+Symbol: S
+Weight: 32.066
+Family: Non-Metals
+Group: 16
+Period: 717.82
+Electrons: 16
+Protons: 16
+Neutrons: ~16
+CHLORINE
+Name: Chlorine
+Symbol: Cl
+Weight: 35.4527
+Family: Halogens
+Group: 17
+Period: 239.18
+Electrons: 17
+Protons: 17
+Neutrons: ~18
+ARGON
+Name: Argon
+Symbol: Ar
+Weight: 39.948
+Family: Noble Gases
+Group: 18
+Period: 87.45
+Electrons: 18
+Protons: 18
+Neutrons: ~22
+POTASSIUM
+Name: Potassium
+Symbol: K
+Weight: 39.0983
+Family: Alkali Metals
+Group: 19
+Period: 1033
+Electrons: 19
+Protons: 19
+Neutrons: ~20
+CALCIUM
+Name: Calcium
+Symbol: Ca
+Weight: 40.078
+Family: Alkaline Earth Metals
+Group: 20
+Period: 1757
+Electrons: 20
+Protons: 20
+Neutrons: ~20
+SCANDIUM
+Name: Scandium
+Symbol: Sc
+Weight: 44.9559
+Family: Transition Metals
+Group: 21
+Period: 3109
+Electrons: 21
+Protons: 21
+Neutrons: ~24
+TITANIUM
+Name: Titanium
+Symbol: Ti
+Weight: 47.88
+Family: Transition Metals
+Group: 22
+Period: 3560
+Electrons: 22
+Protons: 22
+Neutrons: ~26
+VANADIUM
+Name: Vanadium
+Symbol: V
+Weight: 50.9415
+Family: Transition Metals
+Group: 23
+Period: 3650
+Electrons: 23
+Protons: 23
+Neutrons: ~28
+CHROMIUM
+Name: Chromium
+Symbol: Cr
+Weight: 51.996
+Family: Transition Metals
+Group: 24
+Period: 2945
+Electrons: 24
+Protons: 24
+Neutrons: ~28
+MANGANESE
+Name: Manganese
+Symbol: Mn
+Weight: 54.938
+Family: Transition Metals
+Group: 25
+Period: 2235
+Electrons: 25
+Protons: 25
+Neutrons: ~30
+IRON
+Name: Iron
+Symbol: Fe
+Weight: 55.847
+Family: Transition Metals
+Group: 26
+Period: 3023
+Electrons: 26
+Protons: 26
+Neutrons: ~30
+COBALT
+Name: Cobalt
+Symbol: Co
+Weight: 58.9332
+Family: Transition Metals
+Group: 27
+Period: 3143
+Electrons: 27
+Protons: 27
+Neutrons: ~32
+NICKEL
+Name: Nickel
+Symbol: Ni
+Weight: 58.6934
+Family: Transition Metals
+Group: 28
+Period: 3005
+Electrons: 28
+Protons: 28
+Neutrons: ~31
+COPPER
+Name: Copper
+Symbol: Cu
+Weight: 63.456
+Family: Transition Metals
+Group: 29
+Period: 2840
+Electrons: 29
+Protons: 29
+Neutrons: ~34
+ZINC
+Name: Zinc
+Symbol: Zn
+Weight: 65.39
+Family: Transition Metals
+Group: 30
+Period: 1180
+Electrons: 30
+Protons: 30
+Neutrons: ~35
+GALLIUM
+Name: Gallium
+Symbol: Ga
+Weight: 69.723
+Family: Post-Transition Metals
+Group: 31
+Period: 2478
+Electrons: 31
+Protons: 31
+Neutrons: ~39
+GERMANIUM
+Name: Germanium
+Symbol: Ge
+Weight: 72.61
+Family: Metalloids
+Group: 32
+Period: 3107
+Electrons: 32
+Protons: 32
+Neutrons: ~41
+ARSENIC
+Name: Arsenic
+Symbol: As
+Weight: 74.9216
+Family: Metalloids
+Group: 33
+Period: 876
+Electrons: 33
+Protons: 33
+Neutrons: ~42
+SELENIUM
+Name: Selenium
+Symbol: Se
+Weight: 78.96
+Family: Non-Metals
+Group: 34
+Period: 958
+Electrons: 34
+Protons: 34
+Neutrons: ~45
+BROMINE
+Name: Bromine
+Symbol: Br
+Weight: 79.904
+Family: Halogens
+Group: 35
+Period: 331.85
+Electrons: 35
+Protons: 35
+Neutrons: ~45
+KRYTON
+Name: Krypton
+Symbol: Kr
+Weight: 83.8
+Family: Noble Gases
+Group: 36
+Period: 120.85
+Electrons: 36
+Protons: 36
+Neutrons: ~48
+RUBIDIUM
+Name: Rubidium
+Symbol: Rb
+Weight: 85.4678
+Family: Alkali Metals
+Group: 37
+Period: 961
+Electrons: 37
+Protons: 37
+Neutrons: ~48
+STROTIUM
+Name: Strontium
+Symbol: Sr
+Weight: 87.62
+Family: Alkaline Earth Metals
+Group: 38
+Period: 1655
+Electrons: 38
+Protons: 38
+Neutrons: ~50
+YTTRIUM
+Name: Yttrium
+Symbol: Y
+Weight: 88.9059
+Family: Transition Metals
+Group: 39
+Period: 3611
+Electrons: 39
+Protons: 39
+Neutrons: ~50
+ZIRCONIUM
+Name: Zirconium
+Symbol: Zr
+Weight: 91.224
+Family: Transition Metals
+Group: 40
+Period: 4682
+Electrons: 40
+Protons: 40
+Neutrons: ~51
+NIOBIUM
+Name: Niobium
+Symbol: Nb
+Weight: 92.9064
+Family: Transition Metals
+Group: 41
+Period: 5015
+Electrons: 41
+Protons: 41
+Neutrons: ~52
+MOLYBDENUM
+Name: Molybdenum
+Symbol: Mo
+Weight: 95.94
+Family: Transition Metals
+Group: 42
+Period: 4912
+Electrons: 42
+Protons: 42
+Neutrons: ~54
+TECHNETIUM
+Name: Technetium
+Symbol: Tc
+Weight: 98
+Family: Transition Metals
+Group: 43
+Period: 4538
+Electrons: 43
+Protons: 43
+Neutrons: ~55
+RUTHENIUM
+Name: Ruthenium
+Symbol: Ru
+Weight: 101.07
+Family: Transition Metals
+Group: 44
+Period: 4425
+Electrons: 44
+Protons: 44
+Neutrons: ~57
+RHODIUM
+Name: Rhodium
+Symbol: Rh
+Weight: 102.906
+Family: Transition Metals
+Group: 45
+Period: 3970
+Electrons: 45
+Protons: 45
+Neutrons: ~58
+PALLADIUM
+Name: Palladium
+Symbol: Pd
+Weight: 106.42
+Family: Transition Metals
+Group: 46
+Period: 3240
+Electrons: 46
+Protons: 46
+Neutrons: ~60
+SILVER
+Name: Silver
+Symbol: Ag
+Weight: 107.868
+Family: Transition Metals
+Group: 47
+Period: 2436
+Electrons: 47
+Protons: 47
+Neutrons: ~61
+CADMIUM
+Name: Cadmium
+Symbol: Cd
+Weight: 112.41
+Family: Transition Metals
+Group: 48
+Period: 1040
+Electrons: 48
+Protons: 48
+Neutrons: ~64
+INDIUM
+Name: Indium
+Symbol: In
+Weight: 114.82
+Family: Post-Transition Metals
+Group: 49
+Period: 2350
+Electrons: 49
+Protons: 49
+Neutrons: ~66
+TIN
+Name: Tin
+Symbol: Sn
+Weight: 118.71
+Family: Post-Transition Metals
+Group: 50
+Period: 2876
+Electrons: 50
+Protons: 50
+Neutrons: ~69
+ANTIMONY
+Name: Antimony
+Symbol: Sb
+Weight: 121.757
+Family: Metalloids
+Group: 51
+Period: 1860
+Electrons: 51
+Protons: 51
+Neutrons: ~71
+TELLURIUM
+Name: Tellurium
+Symbol: Te
+Weight: 127.6
+Family: Metalloids
+Group: 52
+Period: 1261
+Electrons: 52
+Protons: 52
+Neutrons: ~76
+IODINE
+Name: Iodine
+Symbol: I
+Weight: 126.905
+Family: Halogens
+Group: 53
+Period: 457.5
+Electrons: 53
+Protons: 53
+Neutrons: ~74
+XENON
+Name: Xenon
+Symbol: Xe
+Weight: 131.29
+Family: Noble Gases
+Group: 54
+Period: 165.1
+Electrons: 54
+Protons: 54
+Neutrons: ~77
+CESIUM
+Name: Cesium
+Symbol: Cs
+Weight: 132.905
+Family: Alkali Metals
+Group: 55
+Period: 944
+Electrons: 55
+Protons: 55
+Neutrons: ~78
+BARIUM
+Name: Barium
+Symbol: Ba
+Weight: 137.33
+Family: Alkaline Earth Metals
+Group: 56
+Period: 2078
+Electrons: 56
+Protons: 56
+Neutrons: ~81
+HAFNIUM
+Name: Hafnium
+Symbol: Hf
+Weight: 178.49
+Family: Transition Metals
+Group: 72
+Period: 4875
+Electrons: 72
+Protons: 72
+Neutrons: ~106
+TANTALUM
+Name: Tantalum
+Symbol: Ta
+Weight: 180.948
+Family: Transition Metals
+Group: 73
+Period: 5730
+Electrons: 73
+Protons: 73
+Neutrons: ~108
+TUNGSTEN
+Name: Tungsten
+Symbol: W
+Weight: 183.85
+Family: Transition Metals
+Group: 74
+Period: 5825
+Electrons: 74
+Protons: 74
+Neutrons: ~110
+RHENIUM
+Name: Rhenium
+Symbol: Re
+Weight: 186.207
+Family: Transition Metals
+Group: 75
+Period: 5870
+Electrons: 75
+Protons: 75
+Neutrons: ~111
+OSMIUM
+Name: Osmium
+Symbol: Os
+Weight: 190.2
+Family: Transition Metals
+Group: 76
+Period: 5300
+Electrons: 76
+Protons: 76
+Neutrons: ~114
+IRIDIUM
+Name: Iridium
+Symbol: Ir
+Weight: 192.22
+Family: Transition Metals
+Group: 77
+Period: 4700
+Electrons: 77
+Protons: 77
+Neutrons: ~115
+PLATINUM
+Name: Platinum
+Symbol: Pt
+Weight: 195.08
+Family: Transition Metals
+Group: 78
+Period: 4100
+Electrons: 78
+Protons: 78
+Neutrons: ~117
+GOLD
+Name: Gold
+Symbol: Au
+Weight: 196.967
+Family: Transition Metals
+Group: 79
+Period: 3130
+Electrons: 79
+Protons: 79
+Neutrons: ~118
+MERCURY
+Name: Mercury
+Symbol: Hg
+Weight: 200.59
+Family: Transition Metals
+Group: 80
+Period: 629.88
+Electrons: 80
+Protons: 80
+Neutrons: ~121
+THALLIUM
+Name: Thallium
+Symbol: Tl
+Weight: 204.383
+Family: Post-Transition Metals
+Group: 81
+Period: 1746
+Electrons: 81
+Protons: 81
+Neutrons: ~123
+LEAD
+Name: Lead
+Symbol: Pb
+Weight: 207.2
+Family: Post-Transition Metals
+Group: 82
+Period: 2023
+Electrons: 82
+Protons: 82
+Neutrons: ~125
+BISMUTH
+Name: Bismuth
+Symbol: Bi
+Weight: 208.98
+Family: Post-Transition Metals
+Group: 83
+Period: 1837
+Electrons: 83
+Protons: 83
+Neutrons: ~126
+POLONIUM
+Name: Polonium
+Symbol: Po
+Weight: 209
+Family: Post-Transition Metals
+Group: 84
+Period: 1235
+Electrons: 84
+Protons: 84
+Neutrons: ~125
+ASTATINE
+Name: Astatine
+Symbol: At
+Weight: 210
+Family: Halogens
+Group: 85
+Period: 610
+Electrons: 85
+Protons: 85
+Neutrons: ~125
+RADON
+Name: Radon
+Symbol: Rn
+Weight: 222
+Family: Noble Gases
+Group: 86
+Period: 211.4
+Electrons: 86
+Protons: 86
+Neutrons: ~136
+FRRANCIUM
+Name: Francium
+Symbol: Fr
+Weight: 223
+Family: Alkali Metals
+Group: 87
+Period: 950
+Electrons: 87
+Protons: 87
+Neutrons: ~136
+RADIUM
+Name: Radium
+Symbol: Ra
+Weight: 226.025
+Family: Alkaline Earth Metals
+Group: 88
+Period: 1413
+Electrons: 88
+Protons: 88
+Neutrons: ~138
+RUTHERFORDIUM
+Name: Rutherfordium
+Symbol: Rf
+Weight: 267
+Family: Transition Metals
+Group: 104
+Period: 
+Electrons: 104
+Protons: 104
+Neutrons: ~157
+DUBNIUM
+Name: Dubnium
+Symbol: Db
+Weight: 268
+Family: Transition Metals
+Group: 105
+Period: 
+Electrons: 105
+Protons: 105
+Neutrons: ~157
+SEABORGIUM
+Name: Seaborgium
+Symbol: Sg
+Weight: 269
+Family: Transition Metals
+Group: 106
+Period: 
+Electrons: 106
+Protons: 106
+Neutrons: ~157
+BOHRIUM
+Name: Bohrium
+Symbol: Bh
+Weight: 270
+Family: Transition Metals
+Group: 107
+Period: 
+Electrons: 107
+Protons: 107
+Neutrons: ~155
+HASSIUM
+Name: Hassium
+Symbol: Hs
+Weight: 269
+Family: Transition Metals
+Group: 108
+Period: 
+Electrons: 108
+Protons: 108
+Neutrons: ~157
+MEITNERIUM
+Name: Meitnerium
+Symbol: Mt
+Weight: 278
+Family: Transition Metals
+Group: 109
+Period: 
+Electrons: 109
+Protons: 109
+Neutrons: ~157
+DARMSTADTIUM
+Name: Darmstadtium
+Symbol: Ds
+Weight: 281
+Family: Transition Metals
+Group: 110
+Period: 
+Electrons: 110
+Protons: 110
+Neutrons: ~
+ROENTGENIUM
+Name: Roentgenium
+Symbol: Rg
+Weight: 281
+Family: Transition Metals
+Group: 111
+Period: 
+Electrons: 111
+Protons: 111
+Neutrons: ~
+COPERNICIUM
+Name: Copernicium
+Symbol: Cn
+Weight: 285
+Family: Transition Metals
+Group: 112
+Period: 
+Electrons: 112
+Protons: 112
+Neutrons: ~
+UNUNTRIUM
+Name: Ununtrium
+Symbol: Uut
+Weight: 286
+Family: Post-Transition Metals
+Group: 113
+Period: 
+Electrons: 113
+Protons: 113
+Neutrons: ~
+FLEROVIUM
+Name: Flerovium
+Symbol: Fl
+Weight: 289
+Family: Post-Transition Metals
+Group: 114
+Period: 
+Electrons: 114
+Protons: 114
+Neutrons: ~
+UNUNPENTIUM
+Name: Ununpentium
+Symbol: Uup
+Weight: 288
+Family: Post-Transition Metals
+Group: 115
+Period: 
+Electrons: 115
+Protons: 115
+Neutrons: ~
+LIVERMORIUM
+Name: Livermorium
+Symbol: Lv
+Weight: 293
+Family: Post-Transition Metals
+Group: 116
+Period: 
+Electrons: 116
+Protons: 116
+Neutrons: ~
+UNUNSEPTIUM
+Name: Ununseptium
+Symbol: Uus
+Weight: 294
+Family: Halogens
+Group: 117
+Period: 
+Electrons: 117
+Protons: 117
+Neutrons: ~
+UNUNOCTIUM
+Name: Ununoctium
+Symbol: Uuo
+Weight: 294
+Family: Noble Gases
+Group: 118
+Period: 
+Electrons: 118
+Protons: 118
+Neutrons: ~
+LANTHANUM
+Name: Lanthanum
+Symbol: La
+Weight: 138.906
+Family: Lanthanide
+Group: 57
+Period: 3737
+Electrons: 57
+Protons: 57
+Neutrons: ~82
+CERIUM
+Name: Cerium
+Symbol: Ce
+Weight: 140.12
+Family: Lanthanide
+Group: 58
+Period: 3715
+Electrons: 58
+Protons: 58
+Neutrons: ~82
+PRASEODYMIUM
+Name: Praseodymium
+Symbol: Pr
+Weight: 140.908
+Family: Lanthanide
+Group: 59
+Period: 3785
+Electrons: 59
+Protons: 59
+Neutrons: ~82
+NEODYMIUM
+Name: Neodymium
+Symbol: Nd
+Weight: 144.24
+Family: Lanthanide
+Group: 60
+Period: 3347
+Electrons: 60
+Protons: 60
+Neutrons: ~84
+PROMETHIUM
+Name: Promethium
+Symbol: Pm
+Weight: 145
+Family: Lanthanide
+Group: 61
+Period: 3273
+Electrons: 61
+Protons: 61
+Neutrons: ~84
+SAMARIUM
+Name: Samarium
+Symbol: Sm
+Weight: 150.36
+Family: Lanthanide
+Group: 62
+Period: 2067
+Electrons: 62
+Protons: 62
+Neutrons: ~88
+EUROPIUM
+Name: Europium
+Symbol: Eu
+Weight: 151.965
+Family: Lanthanide
+Group: 63
+Period: 1800
+Electrons: 63
+Protons: 63
+Neutrons: ~89
+GADOLINIUM
+Name: Gadolinium
+Symbol: Gd
+Weight: 157.25
+Family: Lanthanide
+Group: 64
+Period: 3545
+Electrons: 64
+Protons: 64
+Neutrons: ~93
+TERBIUM
+Name: Terbium
+Symbol: Tb
+Weight: 158.925
+Family: Lanthanide
+Group: 65
+Period: 3500
+Electrons: 65
+Protons: 65
+Neutrons: ~94
+DYSPROSIUM
+Name: Dysprosium
+Symbol: Dy
+Weight: 162.5
+Family: Lanthanide
+Group: 66
+Period: 2840
+Electrons: 66
+Protons: 66
+Neutrons: ~97
+HOLMIUM
+Name: Holmium
+Symbol: Ho
+Weight: 164.93
+Family: Lanthanide
+Group: 67
+Period: 2968
+Electrons: 67
+Protons: 67
+Neutrons: ~98
+ERBIUM
+Name: Erbium
+Symbol: Er
+Weight: 167.26
+Family: Lanthanide
+Group: 68
+Period: 3140
+Electrons: 68
+Protons: 68
+Neutrons: ~99
+THILIUM
+Name: Thulium
+Symbol: Tm
+Weight: 168.934
+Family: Lanthanide
+Group: 69
+Period: 2223
+Electrons: 69
+Protons: 69
+Neutrons: ~100
+YTTERBIUM
+Name: Ytterbium
+Symbol: Yb
+Weight: 173.04
+Family: Lanthanide
+Group: 70
+Period: 1469
+Electrons: 70
+Protons: 70
+Neutrons: ~103
+LUTETIUM
+Name: Lutetium
+Symbol: Lu
+Weight: 174.967
+Family: Lanthanide
+Group: 71
+Period: 3668
+Electrons: 71
+Protons: 71
+Neutrons: ~104
+ACTINIUM
+Name: Actinium
+Symbol: Ac
+Weight: 227
+Family: Actinide
+Group: 89
+Period: 3470
+Electrons: 89
+Protons: 89
+Neutrons: ~138
+THROIUM
+Name: Thorium
+Symbol: Th
+Weight: 232.038
+Family: Actinide
+Group: 90
+Period: 5060
+Electrons: 90
+Protons: 90
+Neutrons: ~142
+PROTACTINIUM
+Name: Protactinium
+Symbol: Pa
+Weight: 231.036
+Family: Actinide
+Group: 91
+Period: 4300
+Electrons: 91
+Protons: 91
+Neutrons: ~140
+URANIUM
+Name: Uranium
+Symbol: U
+Weight: 238.029
+Family: Actinide
+Group: 92
+Period: 4407
+Electrons: 92
+Protons: 92
+Neutrons: ~146
+NEPTUNIUM
+Name: Neptunium
+Symbol: Np
+Weight: 237.048
+Family: Actinide
+Group: 93
+Period: 4175
+Electrons: 93
+Protons: 93
+Neutrons: ~144
+PLUTONIUM
+Name: Plutonium
+Symbol: Pu
+Weight: 244
+Family: Actinide
+Group: 94
+Period: 3505
+Electrons: 94
+Protons: 94
+Neutrons: ~150
+AMERICIUM
+Name: Americium
+Symbol: Am
+Weight: 243
+Family: Actinide
+Group: 95
+Period: 2880
+Electrons: 95
+Protons: 95
+Neutrons: ~148
+CURIUM
+Name: Curium
+Symbol: Cm
+Weight: 247
+Family: Actinide
+Group: 96
+Period: 
+Electrons: 96
+Protons: 96
+Neutrons: ~151
+BREKELIUM
+Name: Berkelium
+Symbol: Bk
+Weight: 247
+Family: Actinide
+Group: 97
+Period: 
+Electrons: 97
+Protons: 97
+Neutrons: ~150
+CALIFORNIUM
+Name: Californium
+Symbol: Cf
+Weight: 251
+Family: Actinide
+Group: 98
+Period: 
+Electrons: 98
+Protons: 98
+Neutrons: ~153
+EINSTEINIUM
+Name: Einsteinium
+Symbol: Es
+Weight: 252
+Family: Actinide
+Group: 99
+Period: 
+Electrons: 99
+Protons: 99
+Neutrons: ~153
+FERMIUM
+Name: Fermium
+Symbol: Fm
+Weight: 257
+Family: Actinide
+Group: 100
+Period: 
+Electrons: 100
+Protons: 100
+Neutrons: ~157
+MENDELEVIUM
+Name: Mendelevium
+Symbol: Md
+Weight: 258
+Family: Actinide
+Group: 101
+Period: 
+Electrons: 101
+Protons: 101
+Neutrons: ~157
+NOBELIUM
+Name: Nobelium
+Symbol: No
+Weight: 259
+Family: Actinide
+Group: 102
+Period: 
+Electrons: 102
+Protons: 102
+Neutrons: ~157
+LAWRENCIUM
+Name: Lawrencium
+Symbol: Lr
+Weight: 262
+Family: Actinide
+Group: 103
+Period: 
+Electrons: 103
+Protons: 103
+Neutrons: ~157
